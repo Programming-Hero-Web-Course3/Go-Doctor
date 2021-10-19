@@ -16,8 +16,7 @@ const NotFound = () => {
         <h4 className="text-white">OPPS! PAGE NOT FOUND</h4>
         <p className="text-muted">
           Sorry, the page you're looking for doesn't exist.
-          You can return home and click "add to cart" then purchase.
-          You will get an email shortly.
+     
         </p>
         <NavLink to="/home">
           <button className="btn btn-primary">Return to Home</button>

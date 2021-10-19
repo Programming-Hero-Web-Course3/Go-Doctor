@@ -20,7 +20,6 @@ const SignUp = () => {
     getPassword,
     signUpWithEmail,
     getName,
-    getPhotoURL,
     setError,
     sendVilifiedEmail,
     setUserName,
@@ -103,25 +102,6 @@ const SignUp = () => {
                   autoComplete="current-password"
                   id="password"
                   placeholder="Enter your password"
-                />
-              </InputGroup>
-            </Col>
-          </Row>
-          <Row>
-            <Col className="text-start">
-              <Form.Label htmlFor="photo" visuallyHidden>
-                Your photo URL
-              </Form.Label>
-              <InputGroup className="mb-2">
-                <InputGroup.Text>
-                  <FontAwesomeIcon icon={faUser}></FontAwesomeIcon>
-                </InputGroup.Text>
-                <FormControl
-                  onBlur={getPhotoURL}
-                  type="text"
-                  autoComplete="current-text"
-                  id="photo"
-                  placeholder="Enter your photoURL"
                 />
               </InputGroup>
             </Col>

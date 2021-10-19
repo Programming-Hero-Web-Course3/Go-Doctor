@@ -42,7 +42,7 @@ function Course(props) {
               </Row>
             </div>
             <div className="d-flex">
-              <NavLink to={`/courses/${key}`} className="w-50 btn btn-primary">
+              <NavLink to={`/courses${key}`} className="w-50 btn btn-primary">
                 View Details
               </NavLink>
               <Button

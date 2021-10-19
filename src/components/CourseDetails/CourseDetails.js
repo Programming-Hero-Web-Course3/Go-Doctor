@@ -58,8 +58,8 @@ const CourseDetails = () => {
                     src={newSelected?.sellerThumb}
                     alt=""
                   />
-                  <h4>Seller: {newSelected?.provider}</h4>
-                  <p className="m-0">Web Apps Developer</p>
+                  <h4>Mentor: {newSelected?.provider}</h4>
+                  <p className="m-0">You can ask me any problem </p>
                 </div>
               </Col>
             </Row>

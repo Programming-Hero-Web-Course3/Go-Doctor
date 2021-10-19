@@ -1,19 +1,21 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Header from "./components/Header/Header.js";
-import Footer from "./components/Footer/Footer.js";
-import About from "./components/About/About.js";
-import Contact from "./components/Contact/Contact.js";
-import NotFound from "./components/NotFound/NotFound.js";
-import Login from "./components/login/Login.js";
-import SignUp from "./components/signup/Signup.js";
-import AuthProvider from "./contexts/AuthProvider.js";
-import PrivateRoute from "./components/privateRoute/PrivateRoute.js";
-import Cart from "./components/cart/Cart.js";
-import CourseDetails from "./components/CourseDetails/CourseDetails";
-import Courses from "./components/Courses/Courses";
+import AuthProvider from "./contexts/AuthProvider";
 import Home from "./components/Home/Home";
+import Header from "./components/Header/Header";
+import About from "./components/About/About";
+import Courses from "./components/Courses/Courses";
+import CourseDetails from "./components/CourseDetails/CourseDetails";
+import Login from "./components/login/Login";
+import Contact from "./components/Contact/Contact";
+import PrivateRoute from "./components/privateRoute/PrivateRoute";
+import Cart from "./components/cart/Cart";
+import SignUp from "./components/signup/Signup";
+import { NotFound } from "http-errors";
+import Footer from "./components/Footer/Footer";
+
+
 
 function App() {
   return (

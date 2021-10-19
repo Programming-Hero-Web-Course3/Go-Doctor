@@ -5,7 +5,7 @@
     "title": "Dr. Tamanna",
     "desc": "MBBS,FCPS(India)",
     "price": 20.99,
-    "provider": "Hasan",
+    "provider": "Ranjan",
     "rating": 5,
     "ratingCount": "220",
     "sellerThumb": "https://randomuser.me/api/portraits/men/42.jpg"
@@ -16,7 +16,7 @@
     "title": "Dr. Rahman ",
     "desc": "MBBS,FCPS,MRP",
     "price": 34.79,
-    "provider": "Hasan",
+    "provider": "Petekar",
     "rating": 4.2,
     "ratingCount": "450",
     "sellerThumb": "https://randomuser.me/api/portraits/women/34.jpg"
@@ -27,7 +27,7 @@
     "title": "Dr. Angella",
     "desc": "MBBS,MMIP",
     "price": 18.9,
-    "provider": "Hasan",
+    "provider": "Hablan",
     "rating": 4,
     "ratingCount": "680",
     "sellerThumb": "https://randomuser.me/api/portraits/women/17.jpg"
@@ -38,7 +38,7 @@
     "title": "Dr. Mark",
     "desc": "MBBS,MIMs",
     "price": 48.69,
-    "provider": "Hasan",
+    "provider": "Hasilez",
     "rating": 3.5,
     "ratingCount": "350",
     "sellerThumb": "https://randomuser.me/api/portraits/men/61.jpg"
@@ -49,7 +49,7 @@
     "title": "Dr. Mamillaz",
     "desc": "MBBS,FCPS,FSTS(UK)",
     "price": 48.69,
-    "provider": "Hasan",
+    "provider":"Tandurizan",
     "rating": 4.5,
     "ratingCount": "560",
     "sellerThumb": "https://randomuser.me/api/portraits/women/12.jpg"
@@ -60,7 +60,7 @@
     "title": "Dr. Joy",
     "desc": "MBBS,MS,WFPS(USA)",
     "price": 48.69,
-    "provider": "Hasan",
+    "provider":"Samanay",
     "rating": 4.0,
     "ratingCount": "500",
     "sellerThumb": "https://randomuser.me/api/portraits/men/30.jpg"
@@ -71,7 +71,7 @@
     "title": "Dr. Rayhan",
     "desc": "MBBS,MZMS,MRPS(UN)",
     "price": 42.29,
-    "provider": "Hasan",
+    "provider": "Samantha",
     "rating": 3.5,
     "ratingCount": "500",
     "sellerThumb": "https://randomuser.me/api/portraits/women/8.jpg"
@@ -82,7 +82,7 @@
     "title": "Dr. Sunaira",
     "desc": "MSTBS(Global)",
     "price": 47.69,
-    "provider": "Hasan",
+    "provider": "Orio",
     "rating": 4.5,
     "ratingCount": "500",
     "sellerThumb": "https://randomuser.me/api/portraits/men/10.jpg"
@@ -93,7 +93,7 @@
     "title": "Dr. Sunaira Larin",
     "desc": "MT(Global)",
     "price": 48.69,
-    "provider": "Hasan",
+    "provider":"Hangarot",
     "rating": 4.0,
     "ratingCount": "500",
     "sellerThumb": "https://randomuser.me/api/portraits/women/84.jpg"
